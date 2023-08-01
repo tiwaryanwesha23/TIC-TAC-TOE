@@ -5,8 +5,8 @@
 }
 
 nav{
-    background-color: rgb(243, 168, 243);
-    color: rgb(243, 17, 148);
+    background-color: rgb(210, 120, 197);
+    color: #060e4b;
     height: 65px;
     font-size: 27px;
     display: flex;
@@ -34,7 +34,7 @@ nav ul{
 }
 
 .box{
-    border: 2px solid rgb(235, 10, 111);
+    border: 2px solid rgb(47, 167, 200);
     font-size: 8vw;
     cursor: pointer;
     display: flex;
@@ -43,7 +43,7 @@ nav ul{
 }
 
 .box:hover{
-    background-color: rgb(236, 236, 97);
+    background-color: rgb(109, 184, 222);
 }
 
 .info {
@@ -83,7 +83,7 @@ nav ul{
 #reset {
     margin: 0 23px;
     padding: 1px 18px;
-    background: #29fade;
+    background: #de8cd5;
     border-radius: 6px;
     cursor: pointer;
     font-family: 'Baloo Bhaina 2';
@@ -92,11 +92,11 @@ nav ul{
 }
 
 .line{
-    background-color: black;
+    background-color: rgb(82, 199, 232);
     height: 3px;
     width: 0;
     position: absolute;
-    background-color: #ed8bed;
+    background-color: #d192d1;
     transition: width 1s ease-in-out;
 }
 
